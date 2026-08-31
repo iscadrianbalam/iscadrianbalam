@@ -30,7 +30,7 @@ Una de mis principales áreas de especialización es el desarrollo de aplicacion
 ### Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,ts,expo,firebase,sqlite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,react,ts,firebase,sqlite,nodejs" />
 </p>
 
 **Tecnologías con las que trabajo:**
